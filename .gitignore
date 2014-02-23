@@ -3,3 +3,6 @@
 .DS_Store
 .ruby-version
 tmp
+*.jpg
+*.gif
+*.png
