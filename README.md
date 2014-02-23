@@ -4,6 +4,8 @@
 
 ## Install OpenCV
 
+for Mac OSX (10.9.1)
+
     % brew search opencv
     % brew tap homebrew/science
 
