@@ -1,3 +1,6 @@
+# [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv/) study
+
+- https://github.com/shokai/ruby-opencv-study
 
 ## Install OpenCV
 
